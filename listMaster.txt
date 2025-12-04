@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x@  5 shang  staff  160 Dec  4 09:04 .
+drwxr-xr-x@  6 shang  staff  192 Dec  4 09:00 ..
+drwxr-xr-x@ 13 shang  staff  416 Dec  4 09:04 .git
+-rw-r--r--@  1 shang  staff    0 Dec  4 09:04 listMaster.txt
+-rw-r--r--@  1 shang  staff  147 Dec  4 09:00 README.md
